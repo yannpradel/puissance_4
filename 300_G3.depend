@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1632487176 source:d:\cours\2021-2022\ing2_c++\300_g3\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1632488988 d:\cours\2021-2022\ing2_c++\300_g3\include\rectangle.h
+	<string>
+
+1632486462 source:d:\cours\2021-2022\ing2_c++\300_g3\src\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1632487176 source:c:\users\fontur\desktop\300_g3\300_g3\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1632488988 c:\users\fontur\desktop\300_g3\300_g3\include\rectangle.h
+	<string>
+
+1632489012 source:c:\users\fontur\desktop\300_g3\300_g3\src\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
